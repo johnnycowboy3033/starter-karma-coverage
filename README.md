@@ -1,0 +1,1 @@
+# starter-karma-coverage
