@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leelanarasimha/simple-calculator.git"
+    "url": "git+https://github.com/johnnycowboy3033/starter-karma-coverage.git"
   },
   "author": "LeelaWebDev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/leelanarasimha/simple-calculator/issues"
+    "url": "https://github.com/johnnycowboy3033/starter-karma-coverage/issues"
   },
-  "homepage": "https://github.com/leelanarasimha/simple-calculator#readme",
+  "homepage": "https://github.com/johnnycowboy3033/starter-karma-coverage#readme",
   "devDependencies": {
     "jasmine-core": "^4.0.1",
     "karma": "^6.3.16",
